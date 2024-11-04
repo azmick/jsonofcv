@@ -1,0 +1,72 @@
+{
+    "Kişisel Bilgiler": [
+        {
+            "İsim Soyisim":"Azmi Çağrı Karakaya"
+        }
+    ],
+
+    "İletişim Bilgileri": [
+        {
+            "E-posta": "acagri123@outlook.com",
+            "Telefon Numarası": "05427868174",
+            "Github": "https://github.com/azmick",
+            "Linkedin": "www.linkedin.com/in/acagrik"
+        }
+    ],
+
+    "Eğitim": [
+        {
+            "Okul":"Sakarya Üniversitesi",
+            "Bölüm": "Bilgisayar Mühendisliği",
+            "Süreç": "2020-2024",
+            "GPA": "2.81"
+        }
+    ],
+
+    "Çalışma Geçmişi": [
+        {
+            "Pozisyon":"Sistem Destek Uzmanı Yardımcısı",
+            "Şirket": "Toyota KOCAELİKAYA Plaza",
+            "Görev Tanımı":"Çalışanların donanım sorunlarıyla ilgilendim."
+        },
+        {
+            "Pozisyon":"Yazılım Mühendisliği Stajyeri",
+            "Şirket": "RSU Bilişim ve Danışmanlık Hizmetleri",
+            "Görev Tanımı":"C# ve React teknolojileri ile geliştirmeler yaptım."
+        }
+    ],
+    "Organizasyon":[
+    {
+        "Ad": "BTK & Hawei ARGE Kodlama Maratonu",
+        "Pozisyon": "Geliştirici",
+        "Yapılanlar":"React ve NodeJS kullanarak nitelikli eğitim için chatbot özelliği olan bir web platformu geliştirdim. Bu chatbot için ücretsiz llama 3.2 modelini kullandım ve projeyi Huawei'nin sunduğu bulut platformundaki servislerle ayağa kaldırdım."
+    }
+    ],
+    "Sertifikalar":[
+        {
+            "Ad": "React 201",
+            "Öğrenilenler": "Axios,Routing,Form Yönetimi",
+            "Kurum":"Turkcell Geleceği Yazanlar"
+        },
+        {
+            "Ad": "NodeJS ile Web Programlama",
+            "Öğrenilenler": "Express.js, API, MVC, SQL Entegrasyonu",
+            "Kurum":"BTK Akademi"
+        },
+        {
+            "Ad": "Docker Temelleri",
+            "Öğrenilenler": "Docker, Container, Volume",
+            "Kurum":"BTK Akademi"
+        },
+        {
+            "Ad": "HCCDA Tech Essentials",
+            "Öğrenilenler": "Huawei Cloud Services",
+            "Kurum":"Huawei"
+        }
+    ],
+    "Diller": [
+        {
+        "İngilizce": "Üniversite Hazırlık"
+        }
+    ]
+}
